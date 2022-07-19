@@ -7,7 +7,9 @@
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
+          <x-alert textochapa="NUEVO!" textomensaje="Añadida funcionalidad para exportar clientes"/>  
+          <div class="mt-8 bg-white overflow-hidden shadow-sm sm:rounded-lg">
+              
                 <div class="p-6 bg-white border-b border-gray-200">
                   <div class="flex">
                     <div class="flex-1 w-50"><h2 class="mb-8 text-3xl font-bold">Últimos clientes</h2><br/>
